@@ -32,7 +32,7 @@ function mousePressed(){
 
     //new Box(50,50,50,50);
     
-    //new Box(mouseX,mouseY,50,50);
+    new Box(mouseX,mouseY,50,50);
 
     //new Box(50,50,mouseX,mouseY);
     
