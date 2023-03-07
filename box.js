@@ -2,7 +2,7 @@
 
 // class Box 
 // Class
-// Class box
+ Class box
 // Box
 
 {
