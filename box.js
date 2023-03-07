@@ -1,8 +1,8 @@
 /*ESCOLHA UM DOS CÓDIGOS DE CRIAR UMA CLASSE CORRETAMENTE E RETIRE O "//" DELE */
 
-// class Box 
+ class Box 
 // Class
- Class box
+// Class box
 // Box
 
 {
