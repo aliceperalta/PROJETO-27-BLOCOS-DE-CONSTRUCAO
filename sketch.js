@@ -23,22 +23,20 @@ function setup() {
   };
   ground=Bodies.rectangle(100,300,400,20,option);
   World.add(world,ground);
-  //box1 = new Box(200,100,50,50);
-  
-
   rectMode(CENTER);
   ellipseMode(RADIUS);
 }
 function mousePressed(){
   boxes.push(
-    
-    //new Box(50,50,50,50)
-    
-    //new Box(mouseX,mouseY,50,50)
+    /*ESCOLHA UM DOS CÓDIGOS DE NEW BOX ONDE UMA CAIXA NOVA SURGE NA POSIÇÃO QUANDO CLICADO COM O MOUSE E RETIRE O "//" DELE */
 
-    //new Box(50,50,mouseX,mouseY)
+    //new Box(50,50,50,50);
     
-    //new Box(mouseY,mouseX,50,50)  
+    //new Box(mouseX,mouseY,50,50);
+
+    //new Box(50,50,mouseX,mouseY);
+    
+    //new Box(mouseY,mouseX,50,50); 
     
     )
 }
