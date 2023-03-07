@@ -1,7 +1,10 @@
+/*ESCOLHA UM DOS CÓDIGOS DE CRIAR UMA CLASSE CORRETAMENTE E RETIRE O "//" DELE */
+
 // class Box 
 // Class
 // Class box
 // Box
+
 {
   constructor(x, y, w, h) 
   {
